@@ -4,3 +4,6 @@ lagou:
   message: hello lagou, 100
 code:
   expireMinutes: 10
+brushFilter: 
+  duration: 60000
+  count: 100
